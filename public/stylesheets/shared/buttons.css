@@ -45,11 +45,11 @@
 }
 
 .btn-danger {
-    color: var(--color-btn-primary-text);
-    background-color: var(--color-btn-primary-background);
+    color: var(--color-btn-danger-text);
+    background-color: var(--color-btn-danger-background);
 }
 
 .btn-danger:hover {
-    color: var(--color-btn-primary-text-dark);
-    background-color: var(--color-btn-primary-background-dark);
+    color: var(--color-btn-danger-text-dark);
+    background-color: var(--color-btn-danger-background-dark);
 }
